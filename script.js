@@ -172,7 +172,7 @@ function resetGame() {
     { x: 10, y: 12 }];
   food = generateFood();
   direction = 'right';
-  gameSpeedDelay = 180;
+  gameSpeedDelay = 300;
   updateScore();
 }
 
